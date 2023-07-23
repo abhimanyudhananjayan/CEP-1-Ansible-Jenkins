@@ -1,4 +1,4 @@
 
 [webserver]
-172.31.0.94 ansible_user=ansiuser
 172.31.3.95 ansible_user=ansiuser
+172.31.0.94 ansible_user=ansiuser
